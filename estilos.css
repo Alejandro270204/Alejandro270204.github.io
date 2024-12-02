@@ -1,0 +1,85 @@
+h2 {
+    color: blueviolet;
+}
+
+.titulos {
+    color: #ff1dbb;
+}
+
+#titulo1 {
+    color: rgb(54, 243, 48);
+}
+
+#parrafo1 {
+    color: red;
+}
+
+#seccion1 {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid #ff1dbb;
+}
+
+#seccion2 {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid #ff1dbb;
+}
+
+#seccion3 {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid #ff1dbb;
+}
+
+#seccion4 {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid #ff1dbb;
+}
+
+#seccion5 {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid #ff1dbb;
+}
+
+#photo {
+    margin: 25px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    width: 50%;
+    height: 200px;
+    background-color: whitesmoke;
+}
+
+.links { 
+    margin: 50px;
+}
+
+.grip-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+}
+
+.grip-item {
+    background-color: antiquewhite;
+    padding: 20px;
+}
